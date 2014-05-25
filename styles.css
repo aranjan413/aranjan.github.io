@@ -1,0 +1,2172 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1200px;
+	 height: 2000px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer2copy 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1200px;
+	 height: 2000px;
+	 z-index:1;
+} 
+
+ #Layer3copy 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1200px;
+	 height: 2000px;
+	 z-index:2;
+} 
+
+ #FOIBadges 
+{ 
+	 left: 295px; 
+	 top: 40px; 
+	 position: absolute; 
+	 width: 615px;
+	 height: 410px;
+	 z-index:3;
+} 
+
+ #Shape9copy 
+{ 
+	 left: 119px; 
+	 top: 352px; 
+	 position: absolute; 
+	 width: 962px;
+	 height: 1345px;
+	 z-index:4;
+} 
+
+ #Shape10copy2 
+{ 
+	 left: 84px; 
+	 top: 1150px; 
+	 position: absolute; 
+	 width: 1035px;
+	 height: 11px;
+	 z-index:5;
+} 
+
+ #Shape10 
+{ 
+	 left: 84px; 
+	 top: 625px; 
+	 position: absolute; 
+	 width: 1035px;
+	 height: 31px;
+	 z-index:6;
+} 
+
+ #Shape10copy 
+{ 
+	 left: 119px; 
+	 top: 630px; 
+	 position: absolute; 
+	 width: 1035px;
+	 height: 523px;
+	 z-index:7;
+} 
+
+ #Shape10copy3 
+{ 
+	 left: 119px; 
+	 top: 1385px; 
+	 position: absolute; 
+	 width: 1035px;
+	 height: 261px;
+	 z-index:8;
+} 
+
+ #Copyright2011Ninetee 
+{ 
+     color:#725142;
+     font-size:12;
+     font-style:regular;
+	 font-family:myriad pro;
+	 left: 145px; 
+	 top: 1650px; 
+	 position: absolute; 
+	 z-index:9;
+} 
+
+ #PrivacyPolicy 
+{ 
+     color:#725142;
+     font-size:12;
+     font-style:regular;
+	 font-family:myriad pro;
+	 left: 801px; 
+	 top: 1650px; 
+	 position: absolute; 
+	 z-index:10;
+} 
+
+ #Shape14copy11 
+{ 
+	 left: 920px; 
+	 top: 1456px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 3px;
+	 z-index:11;
+} 
+
+ #Home 
+{ 
+     a:link_color:#4f504b;
+	 left: 974px; 
+	 top: 1456px; 
+	 position: absolute; 
+	 color:#4f504b;	 
+     font-style:myriad pro;
+	 font-size:12pt;
+	 z-index:12;
+}
+
+ #About 
+{ 
+	 left: 973px; 
+	 top: 1486px; 
+	 position: absolute; 
+	 color:#4f504b;	 
+     font-style:myriad pro;
+	 font-size:12pt;
+	 z-index:13;
+} 
+
+ #Work1
+{ 
+	 left: 976px; 
+	 top: 1517px; 
+	 position: absolute;
+	 color:#4f504b;	 
+     font-style:myriad pro;
+	 font-size:12pt;
+	 z-index:14;
+} 
+
+ #Blog 
+{ 
+	 left: 979px; 
+	 top: 1549px;
+	 position: absolute;
+	 color:#4f504b;	 
+     font-style:myriad pro;
+	 font-size:12pt;
+	 z-index:15;
+} 
+
+ #Contact 
+{ 
+	 left: 968px; 
+	 top: 1582px; 
+	 position: absolute;
+     color:#4f504b;	 
+     font-style:myriad pro;
+	 font-size:12pt;
+	 z-index:16;
+} 
+
+ #Pages 
+{ 
+     color:#8e4423;	 
+     font-size:18pt;
+     font-family:Nikaia;
+     font-style:Italic;
+	 left: 966px; 
+	 top: 1400px; 
+	 position: absolute;	 
+	 z-index:17;
+} 
+
+ #Shape14copy11_0 
+{ 
+	 left: 685px; 
+	 top: 1456px; 
+	 position: absolute; 
+	 width: 198px;
+	 height: 3px;
+	 z-index:18;
+} 
+
+#GraphicRiver 
+{ 
+	 left: 747px; 
+	 top: 1456px; 
+	 color:#4f504b;	 
+font-size:12pt;
+font-style:myriad pro;
+	 position: absolute; 
+	 width: 74px;
+	 height: 13px;
+	 z-index:19;
+} 
+
+ #ThemeForest 
+{ 
+	 left: 746px; 
+	 top: 1486px;
+     color:#4f504b;	 
+     font-size:12pt;
+     font-style:myriad pro;
+	 position: absolute; 
+	 width: 77px;
+	 height: 10px;
+	 z-index:20;
+} 
+
+ #NineteenEightyOne 
+{ 
+	 left: 728px; 
+	 top: 1517px;
+     color:#4f504b;	 
+     font-size:12pt;
+     font-style:myriad pro;	 
+	 position: absolute; 
+	 width: 113px;
+	 height: 13px;
+	 z-index:21;
+} 
+
+ #SuiteTuts 
+{ 
+	 left: 758px; 
+	 top: 1549px; 
+	 color:#4f504b;	 
+     font-size:12pt;
+     font-style:regular;
+	 position: absolute; 
+	 width: 51px;
+	 height: 10px;
+	 z-index:22;
+} 
+
+ #WeAreRuckus 
+{ 
+	 left: 748px; 
+	 top: 1581px;
+color:#4f504b;	 
+font-size:12pt;
+font-style:myriad pro;	 
+	 position: absolute; 
+	 width: 78px;
+	 height: 10px;
+	 z-index:23;
+} 
+ #OurFriends 
+{ 
+     color:#8e4423;	 
+     font-size:18pt;
+     font-family:Nikaia;
+     font-style:Italic;
+	 left: 735px; 
+	 top: 1400px; 
+	 position: absolute;
+	 z-index:24;
+} 
+
+ #Ducati 
+{ 
+	 left: 505px; 
+	 top: 1587px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 17px;
+	 z-index:25;
+} 
+
+ #Pixar 
+{ 
+	 left: 489px; 
+	 top: 1551px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 15px;
+	 color:#4f504b;	 
+	 z-index:26;
+} 
+
+ #CocaCola 
+{ 
+	 left: 508px; 
+	 top: 1508px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 25px;
+	  color:#4f504b;	 
+	 z-index:27;
+} 
+
+ #NewYourTimes 
+{ 
+	 left: 465px; 
+	 top: 1471px; 
+	 position: absolute; 
+	 width: 168px;
+	 height: 24px;
+	 z-index:28;
+} 
+
+ #Shape14copy11_1 
+{ 
+	 left: 450px; 
+	 top: 1456px; 
+	 position: absolute; 
+	 width: 198px;
+	 height: 3px;
+	 z-index:29;
+} 
+
+ #FeaturedClients 
+{ 
+     color:#8e4423;	 
+     font-size:18pt;
+     font-family:Nikaia;
+     font-style:Italic;	 
+	 left: 482px; 
+	 top: 1400px; 
+	 position: absolute; 
+	 z-index:30;
+} 
+
+ #Shape14copy11_2 
+{ 
+	 left: 137px; 
+	 top: 1456px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 3px;
+	 z-index:31;
+} 
+
+ #Shape20 
+{ 
+	 left: 139px; 
+	 top: 1467px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:32;
+} 
+
+ #Layer6 
+{ 
+	 left: 145px; 
+	 top: 1473px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:33;
+} 
+
+ #Shape20_0 
+{ 
+	 left: 210px; 
+	 top: 1467px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:34;
+} 
+
+ #Layer6_0 
+{ 
+	 left: 216px; 
+	 top: 1473px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:35;
+} 
+
+ #Shape20_1 
+{ 
+	 left: 281px; 
+	 top: 1467px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:36;
+} 
+
+ #Layer6_1 
+{ 
+	 left: 287px; 
+	 top: 1473px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:37;
+} 
+
+ #Shape20_2 
+{ 
+	 left: 139px; 
+	 top: 1538px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:38;
+} 
+
+ #Layer6_2 
+{ 
+	 left: 145px; 
+	 top: 1544px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:39;
+} 
+
+ #Shape20_3 
+{ 
+	 left: 210px; 
+	 top: 1538px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:40;
+} 
+
+ #Layer6_3 
+{ 
+	 left: 216px; 
+	 top: 1544px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:41;
+} 
+
+ #Shape20_4 
+{ 
+	 left: 281px; 
+	 top: 1538px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:42;
+} 
+
+ #Layer6_4 
+{ 
+	 left: 287px; 
+	 top: 1544px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:43;
+} 
+
+ #Shape20_5 
+{ 
+	 left: 352px; 
+	 top: 1467px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:44;
+} 
+
+ #Layer6_5 
+{ 
+	 left: 358px; 
+	 top: 1473px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:45;
+} 
+
+ #Shape20_6 
+{ 
+	 left: 352px; 
+	 top: 1538px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:46;
+} 
+
+ #Layer6_6 
+{ 
+	 left: 358px; 
+	 top: 1544px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:47;
+} 
+
+ #Flickr 
+{ 
+     color:#8e4423;	 
+     font-size:18pt;
+     font-family:Nikaia;
+     font-style:Italic;
+	 left: 151px; 
+	 top: 1400px; 
+	 position: absolute; 
+
+
+
+
+
+	 z-index:48;
+} 
+
+ #Shape2 
+{ 
+	 left: 636px; 
+	 top: 1288px; 
+	 position: absolute; 
+	 width: 425px;
+	 height: 72px;
+	 z-index:49;
+} 
+
+ #ReTweet 
+{ 
+	 left: 1034px; 
+	 top: 1332px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:50;
+} 
+
+ #RT1981Checkouthisawe 
+{ 
+     color:6f6f64;
+     font-family:myriad pro;
+     font-size:14;
+     font-style:regular;
+	 left: 650px; 
+	 top: 1287px; 
+	 position: absolute; 
+	 z-index:51;
+} 
+#http
+{
+     color:#e6e3bb;
+     font-family:myriad pro;
+     font-size:14;
+     font-style:regular;
+	 left: 650px; 
+	 top: 1205px; 
+	 position: absolute; 
+    
+}
+
+ #FollowBoxStroke 
+{ 
+	 left: 566px; 
+	 top: 1288px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 72px;
+	 z-index:52;
+} 
+
+ #FollowButton 
+{ 
+	 left: 569px; 
+	 top: 1334px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 23px;
+	 z-index:53;
+} 
+
+ #follow 
+{ 
+	 left: 579px; 
+	 top: 1340px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 13px;
+	 z-index:54;
+} 
+
+ #twitternewbirdblue 
+{ 
+	 left: 583px; 
+	 top: 1303px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 22px;
+	 z-index:55;
+} 
+
+ #Shape2_0 
+{ 
+	 left: 567px; 
+	 top: 1221px; 
+	 position: absolute; 
+	 width: 284px;
+	 height: 42px;
+	 z-index:56;
+} 
+
+ #youyourcompanycom 
+{
+     background-color:#423838;
+	 left: 582px; 
+	 top: 1225px; 
+	 position: absolute; 
+	 width: 144px;
+	 height: 12px;
+	 z-index:57;
+} 
+#emailtext
+{
+ background-color:#423838;
+	 left: 582px; 
+	 top: 1225px; 
+	 }
+	 
+
+ #FollowButton_0 
+{ 
+	 left: 769px; 
+	 top: 1223px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 37px;
+	 z-index:58;
+} 
+
+ #SignUp 
+{ 
+	 left: 785px; 
+	 top: 1236px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 13px;
+	 z-index:59;
+} 
+
+ #NewsletterSubscripti 
+{ 
+	 left: 570px; 
+	 top: 1194px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 18px;
+	 z-index:60;
+} 
+
+ #Layer7copy 
+{ 
+	 left: 541px; 
+	 top: 1176px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 205px;
+	 z-index:61;
+} 
+
+ #Donecpellentesquejus 
+{ 
+	 left: 139px; 
+	 top: 1200px; 
+	 position: absolute; 
+	  color:#7b7a6d;
+	 font-family:myriad pro;
+	 font-size:13;
+	 font-style:regular;
+	 width: 232px;
+	 height: 76px;
+	 float:left;
+	 z-index:62;
+} 
+
+ #Donecpellentesquejus_0 
+{ 
+	 left: 140px; 
+	 top: 1298px; 
+	 position: absolute; 
+	 width: 390px;
+	 height: 44px;
+	  color:#7b7a6d;
+	 font-family:myriad pro;
+	 font-size:13;
+	 font-style:regular;
+	 z-index:63;
+} 
+
+ #Shape21 
+{ 
+	 left: 379px; 
+	 top: 1194px; 
+	 position: absolute; 
+	 width: 149px;
+	 height: 100px;
+	 z-index:64;
+} 
+
+ #Layer7 
+{ 
+	 left: 386px; 
+	 top: 1201px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 86px;
+	 z-index:65;
+} 
+
+ #PharetraEget 
+{ 
+font-family:titilliumText14l;
+     color:#8e4423;
+	 font-size:18;
+	 font-weight:800;
+	 left: 141px; 
+	 top: 1175px; 
+	 position: absolute; 
+	 
+	 z-index:66;
+} 
+
+ #Shape19copy2 
+{ 
+	 left: 553px; 
+	 top: 912px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 30px;
+	 z-index:67;
+} 
+
+ #Shape19copy3 
+{ 
+	 left: 446px; 
+	 top: 912px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 30px;
+	 z-index:68;
+} 
+
+ #Shape18 
+{ 
+	 left: 139px; 
+	 top: 908px; 
+	 position: absolute; 
+	 width: 921px;
+	 height: 207px;
+	 z-index:69;
+} 
+
+ #Donecpellentesquejus_1 
+{ 
+	 left: 624px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 color:#7b7a6d;
+	 font-family:myriad pro;
+	 font-size:13;
+	 font-style:regular;
+	 z-index:70;
+} 
+
+ #layer_71 
+{ 
+	 left: 624px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 12px;
+	 z-index:71;
+} 
+
+ #layer_72 
+{ 
+	 left: 823px; 
+	 top: 1073px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 12px;
+	 z-index:72;
+} 
+
+ #DirectorofMarketingG 
+{ 
+	 left: 657px; 
+	 top: 991px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 11px;
+	 z-index:73;
+} 
+
+ #JohnMDoe 
+{ 
+	 left: 657px; 
+	 top: 970px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 13px;
+	 z-index:74;
+} 
+
+ #Mic 
+{ 
+	 left: 627px; 
+	 top: 973px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 24px;
+	 z-index:75;
+} 
+
+ #Donecpellentesquejus_2 
+{ 
+	 left: 251px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 327px;
+	 height: 63px;
+	 z-index:76;
+} 
+
+ #layer_77 
+{ 
+	 left: 251px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 12px;
+	 z-index:77;
+} 
+
+ #layer_78 
+{ 
+	 left: 450px; 
+	 top: 1073px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 12px;
+	 z-index:78;
+} 
+
+ #COOGalaxySmithInc 
+{ 
+	 left: 284px; 
+	 top: 991px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 12px;
+	 z-index:79;
+} 
+
+ #JayneWSmith 
+{ 
+	 left: 284px; 
+	 top: 970px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 17px;
+	 z-index:80;
+} 
+
+ #Mic_0 
+{ 
+	 left: 254px; 
+	 top: 973px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 24px;
+	 z-index:81;
+} 
+
+ #BlogPosts 
+{ 
+	 left: 690px; 
+	 top: 920px; 
+	 position: absolute; 
+	 width: 61px;
+	 height: 14px;
+	 z-index:82;
+} 
+
+ #Testimonials 
+{ 
+	 left: 573px; 
+	 top: 921px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 10px;
+	 z-index:83;
+} 
+
+ #LatestPress 
+{ 
+	 left: 472px; 
+	 top: 922px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 9px;
+	 z-index:84;
+} 
+
+ #Shape19 
+{ 
+	 left: 1005px; 
+	 top: 1010px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:85;
+} 
+
+ #brnextcopy3 
+{ 
+	 left: 1020px; 
+	 top: 1020px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:86;
+} 
+
+ #Shape19copy 
+{ 
+	 left: 158px; 
+	 top: 1010px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:87;
+} 
+
+ #brnextcopy2 
+{ 
+	 left: 170px; 
+	 top: 1021px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:88;
+} 
+
+ #Shape19copy2_0 
+{ 
+	 left: 432px; 
+	 top: 912px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 30px;
+	 z-index:89;
+} 
+
+ #Shape19copy3_0 
+{ 
+	 left: 660px; 
+	 top: 912px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 30px;
+	 z-index:90;
+} 
+
+ #Shape18_0 
+{ 
+	 left: 139px; 
+	 top: 908px; 
+	 position: absolute; 
+	 width: 921px;
+	 height: 207px;
+	 z-index:91;
+} 
+
+ #Donecpellentesquejus_3 
+{ 
+	 left: 624px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 327px;
+	 height: 63px;
+	 z-index:92;
+} 
+
+ #layer_93 
+{ 
+	 left: 624px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 12px;
+	 z-index:93;
+} 
+
+ #layer_94 
+{ 
+	 left: 823px; 
+	 top: 1073px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 12px;
+	 z-index:94;
+} 
+
+ #DirectorofMarketingG_0 
+{ 
+	 left: 657px; 
+	 top: 991px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 11px;
+	 z-index:95;
+} 
+
+ #JohnMDoe_0 
+{ 
+	 left: 657px; 
+	 top: 970px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 13px;
+	 z-index:96;
+} 
+
+ #Mic_1 
+{ 
+	 left: 627px; 
+	 top: 973px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 24px;
+	 z-index:97;
+} 
+
+ #Donecpellentesquejus_4 
+{ 
+	 left: 251px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 327px;
+	 height: 63px;
+	 z-index:98;
+} 
+
+ #layer_99 
+{ 
+	 left: 251px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 12px;
+	 z-index:99;
+} 
+
+ #layer_100 
+{ 
+	 left: 450px; 
+	 top: 1073px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 12px;
+	 z-index:100;
+} 
+
+ #COOGalaxySmithInc_0 
+{ 
+	 left: 284px; 
+	 top: 991px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 12px;
+	 z-index:101;
+} 
+
+ #JayneWSmith_0 
+{ 
+	 left: 284px; 
+	 top: 970px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 17px;
+	 z-index:102;
+} 
+
+ #Mic_2 
+{ 
+	 left: 254px; 
+	 top: 973px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 24px;
+	 z-index:103;
+} 
+
+ #BlogPosts_0 
+{ 
+	 left: 686px; 
+	 top: 921px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 12px;
+	 z-index:104;
+} 
+
+ #Testimonials_0 
+{ 
+	 left: 562px; 
+	 top: 920px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 11px;
+	 z-index:105;
+} 
+
+ #LatestPress_0 
+{ 
+	 left: 456px; 
+	 top: 922px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 9px;
+	 z-index:106;
+} 
+
+ #Shape19_0 
+{ 
+	 left: 1005px; 
+	 top: 1010px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:107;
+} 
+
+ #brnextcopy3_0 
+{ 
+	 left: 1020px; 
+	 top: 1020px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:108;
+} 
+
+ #Shape19copy_0 
+{ 
+	 left: 158px; 
+	 top: 1010px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:109;
+} 
+
+ #brnextcopy2_0 
+{ 
+	 left: 170px; 
+	 top: 1021px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:110;
+} 
+
+ #Shape19copy2_1 
+{ 
+	 left: 553px; 
+	 top: 912px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 30px;
+	 z-index:111;
+} 
+
+ #Shape19copy3_1 
+{ 
+	 left: 660px; 
+	 top: 912px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 30px;
+	 z-index:112;
+} 
+
+ #Shape18_1 
+{ 
+	 left: 139px; 
+	 top: 908px; 
+	 position: absolute; 
+	 width: 921px;
+	 height: 207px;
+	 z-index:113;
+} 
+
+ #Justoegetimperdietvi 
+{ 
+     font-style:italic;
+     font-family:nikaia;
+	 font-size:14;
+     color:#e6e3bb;
+	 left: 734px; 
+	 top: 1000px; 
+	 position: absolute; 
+	 width: 193px;
+	 height: 63px;
+	 z-index:114;
+} 
+
+ #EleifendniHuthy42020 
+{ 
+	 left: 781px; 
+	 top: 991px; 
+	 position: absolute; 
+	 width: 135px;
+	 height: 12px;
+	 z-index:115;
+} 
+
+ #Mashable 
+{ 
+      font-style:semibold;
+     font-family:myriad pro;
+	 font-size:18;
+     color:#e6e3bb;
+	 left: 782px; 
+	 top: 950px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 13px;
+	 z-index:116;
+} 
+
+ #spechbubblesqline 
+{ 
+	 left: 737px; 
+	 top: 974px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:117;
+} 
+
+ #Pointercopy 
+{ 
+	 left: 891px; 
+	 top: 1018px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 22px;
+	 z-index:118;
+} 
+
+ #Pellentesquejustoege 
+{ 
+     color:#7b7a6d;
+	 font-family:nikaia;
+	 font-size:13;
+	 font-style:Italic;
+	 left: 502px; 
+	 top: 1000px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 45px;
+	 z-index:119;
+} 
+
+ #EleifendniHuthy53201 
+{ 
+	 left: 548px; 
+	 top: 991px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 12px;
+	 z-index:120;
+} 
+
+ #FreelanceSwitch 
+{ 
+     font-style:semibold;
+     font-family:myriad pro;
+	 font-size:18;
+     color:#8e4423;
+	 left: 549px; 
+	 top: 950px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 13px;
+	 z-index:121;
+} 
+
+ #MovieStrip 
+{ 
+	 left: 506px; 
+	 top: 973px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 25px;
+	 z-index:122;
+} 
+
+ #Donecpellentesquejus_5 
+{ 
+     color:#7b7a6d;
+	 font-family:nikaia;
+	 font-size:13;
+	 font-style:Italic;
+	 left: 268px; 
+	 top: 1000px; 
+	 position: absolute;
+	 width: 173px;
+	 height: 45px;
+	 z-index:123;
+} 
+
+ #EleifendniHuthy52020 
+{ 
+	 left: 314px; 
+	 top: 991px; 
+	 position: absolute; 
+	 width: 135px;
+	 height: 12px;
+	 z-index:124;
+} 
+
+ #Gizmodo 
+{ 
+     font-style:semibold;
+     font-family:myriad pro;
+	 font-size:18;
+     color:#8e4423;
+	 left: 314px; 
+	 top: 950px; 
+	 position: absolute; 
+	 width: 70px;
+	 height: 13px;
+	 z-index:125;
+} 
+
+ #spechbubblesqline_0 
+{ 
+	 left: 270px; 
+	 top: 974px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:126;
+} 
+
+ #Shape19_1 
+{ 
+	 left: 1005px; 
+	 top: 1010px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:127;
+} 
+
+ #brnextcopy3_1 
+{ 
+	 left: 1020px; 
+	 top: 1020px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:128;
+} 
+
+ #Shape19copy_1 
+{ 
+	 left: 158px; 
+	 top: 1010px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:129;
+} 
+
+ #brnextcopy2_1 
+{ 
+	 left: 170px; 
+	 top: 1021px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:130;
+} 
+
+ #BlogPosts_1 
+{ 
+     color:#5b5b5b;
+	 font-family:Vegur;
+	 font-style:regular;
+	 font-size:12;
+	 left: 689px; 
+	 top: 905px; 
+	 position: absolute; 
+	 width: 54px;
+	 height: 12px;
+	 z-index:131;
+} 
+
+ #Testimonials_1 
+{ 
+     color:#5b5b5b;
+	 font-family:Vegur;
+	 font-style:regular;
+	 font-size:12;
+	 left: 570px; 
+	 top: 905px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 10px;
+	 z-index:132;
+} 
+
+ #LatestPress_1 
+{ 
+     color:#e6e3bb;
+	 font-family:Vegur;
+	 font-style:regular;
+	 font-size:14;
+	 left: 459px; 
+	 top: 905px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 11px;
+	 z-index:133;
+} 
+
+ #Shape12copy2 
+{ 
+	 left: 865px; 
+	 top: 834px; 
+	 position: absolute; 
+	 width: 91px;
+	 height: 31px;
+	 z-index:134;
+} 
+
+ #learnmore 
+{ 
+	 font-family:myriad pro;
+	 font-style:regular;
+     color:#e6e3bb;
+	 font-size:13;
+	 top: 825px; 
+	 left: 873px; 
+	 position: absolute; 
+	 z-index:135;
+} 
+
+ #Donecpellentesquejus_6 
+{ 
+     color:#67665c;
+	 font-size:13;
+	 font-weight:7;
+	 font-style:bold;
+	 font-family:myriad pro;
+	 text-align:center;
+	 left: 813px; 
+	 top: 711px; 
+	 position: absolute; 
+	 z-index:136;
+} 
+
+ #DELIVER 
+{ 
+     color:#8e4423;
+     font-family:nikaia;
+     font-size:18;
+	 font-weight:bold;
+     font-style:italic; 
+	 top: 680px; 
+	 left: 874px;
+	 position: absolute;
+	 z-index:137;
+} 
+
+ #Shape15 
+{ 
+    
+	 left: 863px; 
+	 top: 582px; 
+	 position: absolute;
+     width: 100px;
+	 height: 99px;	 
+	 z-index:138;
+} 
+
+ #calendar1copy 
+{ 
+	 left: 896px; 
+	 top: 615px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 32px;
+	 z-index:139;
+} 
+
+ #Layer1copy2 
+{ 
+	 left: 864px; 
+	 top: 584px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 96px;
+	 z-index:140;
+} 
+
+ #Shape16copy3 
+{ 
+	 left: 873px; 
+	 top: 592px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 79px;
+	 z-index:141;
+} 
+
+ #Shape12copy2_0 
+{ 
+	 left: 555px; 
+	 top: 834px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 31px;
+	 z-index:142;
+} 
+
+ #learnmore_0 
+{ 
+     font-family:myriad pro;
+	 font-style:regular;
+     color:#e6e3bb;
+	 font-size:13;
+	 top: 825px; 
+	 left: 573px; 
+	 position: absolute; 
+	 z-index:143;
+} 
+
+ #Justoegetimperdietvi_0 
+{ 
+     color:#67665c;
+	 font-size:13;
+	 font-weight:7;
+	 font-style:bold;
+	 font-family:myriad pro;
+	 text-align:center;
+	 left: 505px; 
+	 top: 711px; 
+	 position: absolute; 
+	 z-index:144;
+} 
+
+ #WORK 
+{ 
+     color:#8e4423;
+     font-family:nikaia;
+     font-size:18;
+	 font-weight:bold;
+     font-style:italic; 
+	 top: 680px; 
+	 left: 575px;
+	 position: absolute;
+	 z-index:145;
+} 
+
+ #Shape15_0 
+{ 
+	 left: 551px; 
+	 top: 582px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 99px;
+	 z-index:146;
+	 }
+
+ #Layer1copy 
+{ 
+	 left: 554px; 
+	 top: 584px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 96px;
+	 z-index:148;
+} 
+
+ #Shape16copy 
+{ 
+	 left: 561px; 
+	 top: 592px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 79px;
+	 z-index:149;
+} 
+
+ #Shape12copy2_1 
+{ 
+	 left: 240px; 
+	 top: 834px; 
+	 position: absolute; 
+	 width: 91px;
+	 height: 31px;
+	 z-index:150;
+} 
+
+ #learnmore_1 
+{ 
+ font-family:myriad pro;
+	 font-style:regular;
+     color:#e6e3bb;
+	 font-size:13;
+	 top: 825px; 
+	 left: 258px; 
+	 position: absolute; 
+	 z-index:151;
+} 
+
+ #Donecpellentesquejus_7 
+{ 
+     color:#67665c;
+	 font-size:13;
+	 font-weight:7;
+	 font-style:bold;
+	 font-family:myriad pro;
+	 text-align:center;
+	 left: 189px; 
+	 top: 711px; 
+	 position: absolute; 
+	 z-index:152;
+} 
+
+ #RESEARCH 
+{ 
+     color:#8e4423;
+     font-family:nikaia;
+     font-size:18;
+	 font-weight:bold;
+     font-style:italic;
+	 left: 239px; 
+	 top: 680px; 
+	 position: absolute;
+	 z-index:153;
+} 
+
+ #Shape15_1 
+{ 
+	 left: 237px; 
+	 top: 582px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 99px;
+	 z-index:154;
+} 
+
+ #book 
+{ 
+	 left: 272px; 
+	 top: 618px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 28px;
+	 z-index:155;
+} 
+
+ #Layer1 
+{ 
+	 left: 239px; 
+	 top: 584px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 96px;
+	 z-index:156;
+} 
+
+ #Shape16 
+{ 
+	 left: 247px; 
+	 top: 592px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 79px;
+	 z-index:157;
+} 
+
+ #Shape11 
+{ 
+	 left: 419px; 
+	 top: 424px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 102px;
+	 z-index:158;
+} 
+
+ #Layer5 
+{ 
+	 left: 425px; 
+	 top: 431px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 88px;
+	 z-index:159;
+} 
+
+ #Layer3copy3 
+{ 
+	 left: -128px; 
+	 top: 133px; 
+	 position: absolute; 
+	 width: 1253px;
+	 height: 1002px;
+	 z-index:160;
+} 
+
+ #Shape11copy 
+{ 
+	 left: 279px; 
+	 top: 424px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 102px;
+	 z-index:161;
+} 
+
+ #Layer4 
+{ 
+	 left: 285px; 
+	 top: 431px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 88px;
+	 z-index:162;
+} 
+
+ #Layer3copy2 
+{ 
+	 left: -128px; 
+	 top: 133px; 
+	 position: absolute; 
+	 width: 1253px;
+	 height: 1002px;
+	 z-index:163;
+} 
+
+ #Shape11copy2 
+{ 
+	 left: 139px; 
+	 top: 424px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 102px;
+	 z-index:164;
+} 
+
+ #Layer2 
+{ 
+	 left: 145px; 
+	 top: 431px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 88px;
+	 z-index:165;
+} 
+
+ #Layer3 
+{ 
+	 left: -130px; 
+	 top: 137px; 
+	 position: absolute; 
+	 width: 1253px;
+	 height: 1002px;
+	 z-index:166;
+} 
+
+ #Cert 
+{ 
+	 left: 569px; 
+	 top: 430px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 32px;
+	 z-index:167;
+} 
+
+ #Donecpellentesquejus_8 
+{  
+     font-style:regular;
+     font-family:myriad pro;
+	 font-size:13;
+     color:#7b7a6d;
+	 left: 568px; 
+	 top: 464px; 
+	 position: absolute;
+	 z-index:168;
+} 
+
+ #Krilihavtrethyogustr 
+{ 
+
+     font-style:italic;
+     font-family:myriad pro;
+	 font-size:12;
+     color:#646363;
+	 left: 607px; 
+	 top: 435px; 
+	 position: absolute; 
+	 z-index:169;
+} 
+
+ #Krilihavtrethyogustr_0 
+{
+     font-style:semibold;
+     font-family:myriad pro;
+	 font-size:18;
+     color:#8e4423;
+	 left: 607px; 
+	 top: 405px; 
+	 position: absolute; 
+	 z-index:170;
+} 
+
+ #Shape17 
+{ 
+	 left: 129px; 
+	 top: 554px; 
+	 position: absolute; 
+	 width: 941px;
+	 height: 5px;
+	 z-index:171;
+} 
+
+ #FeaturedTitle 
+{ 
+     font-style:regular;
+     font-style:Italic;
+     font-family:Nikaia;
+	 font-size:16;
+     color:#ffffff;
+	 left: 551px; 
+	 top: 350px; 
+	 position: absolute;
+	 z-index:172;
+} 
+
+ #brnext 
+{ 
+	 left: 684px; 
+	 top: 363px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:173;
+} 
+
+ #brnextcopy 
+{ 
+	 left: 511px; 
+	 top: 363px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 16px;
+	 z-index:174;
+} 
+
+ #Shape9 
+{ 
+	 left: 119px; 
+	 top: -20px; 
+	 position: absolute; 
+	 width: 962px;
+	 height: 96px;
+	 z-index:175;
+} 
+
+ #Home_0 
+{    
+      
+     
+     font-style:semibold;
+	 font-family:myriad pro;
+	 left: 300px; 
+	 top: 25px; 
+	 position: absolute; 
+	 z-index:176;
+} 
+
+ #About_0 
+{ 
+    
+	 font-style:regular;
+	 font-family:myriad pro;
+	 font-size:14;
+	 left: 367px; 
+	 top: 25px; 
+	 position: absolute; 
+	 z-index:177;
+} 
+
+ #Work_0 
+{ 
+     
+	 font-style:regular;
+	 font-family:myriad pro;
+	 font-size:14;
+	 position: absolute;
+	 left: 436px; 
+	 top: 25px; 
+	 z-index:178;
+} 
+
+ #Blog_0 
+{ 
+    
+	 font-style:regular;
+	 font-family:myriad pro;
+	  font-size:14;
+	 left: 506px; 
+	 top: 25px; 
+	 position: absolute; 
+	 z-index:179;
+} 
+
+ #Contact_0 
+{ 
+     
+	 font-style:regular;
+	 font-family:myriad pro;
+	  font-size:14;
+	 left: 562px; 
+	 top: 25px; 
+	 position: absolute; 
+	 z-index:180;
+} 
+
+ #Shape13 
+{ 
+	 left: 414px; 
+	 top: 55px; 
+	 position: absolute; 
+	 width: 229px;
+	 height: 149px;
+	 z-index:181;
+} 
+
+ #Shape14 
+{ 
+	 left: 434px; 
+	 top: 97px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 3px;
+	 z-index:182;
+} 
+
+ #Shape14copy 
+{ 
+	 left: 434px; 
+	 top: 128px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 5px;
+	 z-index:183;
+} 
+
+ #Shape14copy2 
+{ 
+	 left: 434px; 
+	 top: 160px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 3px;
+	 z-index:184;
+} 
+
+ #Web 
+{ 
+	 left: 436px; 
+	 top: 59px; 
+	 position: absolute; 
+	 color:#7b7a6d;
+	 font-style:regular;
+	 font-family:myriad pro;
+	 font-size:14;
+	 z-index:185;
+} 
+
+ #LogoCorpID 
+{ 
+	 left: 436px; 
+	 top: 89px; 
+	 position: absolute; 
+	 color:#7b7a6d;
+	 font-style:regular;
+	 font-family:myriad pro;
+	 font-size:14;
+	 z-index:186;
+} 
+
+ #PrintDesign 
+{ 
+	 left: 436px; 
+	 top: 120px; 
+	 position: absolute; 
+	 color:#e6e3bb;
+	 font-style:regular;
+	 font-family:myriad pro;
+	 font-size:14;
+	 z-index:187;
+} 
+
+ #MobileDesignDevelopm 
+{ 
+	 left: 436px; 
+	 top: 152px; 
+	 position: absolute; 
+	 color:#7b7a6d;
+	 font-style:regular;
+	 font-family:myriad pro;
+	 font-size:14;
+	 z-index:188;
+} 
+
+ #Pointer 
+{ 
+	 left: 541px; 
+	 top: 1777px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 22px;
+	 z-index:189;
+} 
+
+ #Line 
+{ 
+	 left: 277px; 
+	 top: 18px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 38px;
+	 z-index:190;
+} 
+
+ #Shape12 
+{ 
+	 left: 943px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 29px;
+	 z-index:191;
+} 
+
+ #Shape12copy 
+{ 
+	 left: 752px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 181px;
+	 height: 29px;
+	 z-index:192;
+} 
+
+ #WelcomeBack
+{ 
+     color:#4f504b;
+	 left: 766px; 
+	 top: 12px; 
+	 position: absolute;
+	 z-index:193;
+} 
+
+ #JohnDoe81
+{ 
+     color:#8e4423;;
+	 left: 860px; 
+	 top: 12px; 
+	 position: absolute;
+	 z-index:193;
+} 
+
+ #ClientSignOut 
+{ 
+     color:#e6e3bb;
+	 left: 954px; 
+	 top: 12px; 
+	 position: absolute;
+	 z-index:194;
+} 
+
+ #Shape12_0 
+{ 
+	 left: 943px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 29px;
+	 z-index:195;
+} 
+
+ #Shape12copy_0 
+{ 
+	 left: 813px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 29px;
+	 z-index:196;
+} 
+
+ #EnterPassword 
+{ 
+	 left: 827px; 
+	 top: 31px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 10px;
+	 z-index:197;
+} 
+
+
+
+ #layer_1981 
+{ 
+	 left: 141px; 
+	 top: 24px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 25px;
+	 z-index:199;
+} 
+
+ #Watermark 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1200px;
+	 height: 2000px;
+	 z-index:200;
+} 
